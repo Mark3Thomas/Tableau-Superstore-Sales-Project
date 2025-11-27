@@ -51,5 +51,11 @@ This project uses the **Superstore dataset**, a widely used sample dataset for d
 - Consumer segment leads total sales contribution.
 - Several states such as California and New York perform significantly better.
 - Sales show a consistent upward trend over the years.
+- Technology emerged as the highest-revenue category, contributing 36% of total sales, followed by Furniture and Office Supplies.
+- At the sub-category level, Phones, Chairs, and Storage drive the most sales, showcasing where customer demand is strongest.
+- California, Washington, and Oregon stand out as top-performing states, while central and midwestern regions show potential for growth.
+- By segment, Consumer leads with over 50% of sales, indicating strong B2C performance.
+- Profit margin remains healthy at 12%, with a manageable 5.9% return rate.
 
+The sales trend shows steady growth from 2014 to 2018, highlighting consistent business expansion.
 
