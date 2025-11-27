@@ -41,7 +41,7 @@ This project uses the **Superstore dataset**, a widely used sample dataset for d
 ---
 
 ##  Dashboard Preview
-<img width="1869" height="783" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/1622937f-f7bd-4c9f-a2d2-da4c60abd3ea" />
+
 
 
 ---
