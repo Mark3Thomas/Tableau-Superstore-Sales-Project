@@ -39,6 +39,13 @@ This project uses the **Superstore dataset**, a widely used sample dataset for d
 - Demonstrate Tableau dashboarding and data storytelling skills.
 
 ---
+## 🎯 Project Objectives
+
+The primary goal of this analysis was to identify key patterns, strengths, and weaknesses in Superstore's business performance to deliver data-driven recommendations that support strategic expansion and operational improvements.
+
+
+
+---
 
 ##  Dashboard Preview
 
