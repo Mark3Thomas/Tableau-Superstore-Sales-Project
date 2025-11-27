@@ -46,7 +46,7 @@ This project uses the **Superstore dataset**, a widely used sample dataset for d
 
 ---
 
-##  Key Insights
+##  📊Key Insights
 - Technology category generates the highest sales share.
 - Consumer segment leads total sales contribution.
 - Several states such as California and New York perform significantly better.
