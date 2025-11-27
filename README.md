@@ -1,4 +1,4 @@
-# Tableau-Superstore-Sales-Project
+# 📈Tableau-Superstore-Sales-Project
 
 This project presents an interactive Tableau dashboard built using the Superstore dataset to analyze key business metrics such as Sales, Profit Margin, Return Rate, Regional Performance, Category Trends, and Product Insights. The dashboard helps identify sales patterns, profitable categories, regional opportunities, and customer segment contributions.
 
