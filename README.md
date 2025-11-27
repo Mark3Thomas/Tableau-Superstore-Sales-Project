@@ -66,3 +66,24 @@ The primary goal of this analysis was to identify key patterns, strengths, and w
 
 The sales trend shows steady growth from 2014 to 2018, highlighting consistent business expansion.
 
+---
+
+## 📊 Key Insights
+
+### A. Regional Sales & Profit
+* **East** and **West** regions consistently show higher sales volumes.
+* The **South** region has significant profit losses, notably in sub-categories like Tables and Machines.
+* The **Central** region is balanced but lacks significant growth
+* 
+### B. Sales Trends Over Time
+* Sales and profits follow a **seasonal trend**, peaking during **Q3 and Q4** (especially September to December).
+* Years like 2014 and 2015 showed sharper profit growth compared to 2013, which had uneven profitability.
+* 
+### C. Product Performance
+* **Technology** products like **Copiers and Phones** are top performers in both sales and profitability.
+* **Tables** in the **Furniture** category show high sales but **negative profits**, indicating potential issues with pricing or cost.
+* No Furniture items appeared in the Top 10 most profitable products list.
+
+---
+## ✅ Business Recommendations
+
